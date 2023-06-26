@@ -1,1 +1,2 @@
-# ORTEX_Data_Engineer_Challenge- Redeveloping using python ETL best practices. it will be in 3 languages ie. Python(Pandas),Pyspark,SQL
+# ORTEX_Data_Engineer_Challenge- 
+Redeveloping using Python ETL best practices. it will be in 2 modes ie. Python(Pandas),Pyspark
