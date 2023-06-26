@@ -1,0 +1,1 @@
+0 11 * * * C://sqlpractice//DE_Project_1//run.sh C://sqlpractice//DE_Project_1//runlogs.log
